@@ -1,0 +1,25 @@
+// Please populate this file with content regarding the important educational boards in India
+// (e.g., CBSE, ICSE/ISC, State Boards, International Boards like IB, Cambridge).
+// This content was previously in your project's 'knowledge_base/education_system/doc_1.txt (boards part)'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Key Educational Boards in India:
+//
+// 1. CBSE (Central Board of Secondary Education):
+//    - A national-level board of education in India for public and private schools, controlled and managed by the Government of India.
+//    - Follows the NCERT (National Council of Educational Research and Training) curriculum.
+//
+// 2. ICSE/ISC (Council for the Indian School Certificate Examinations):
+//    - A private, non-governmental board of school education in India.
+//    - Known for a comprehensive syllabus with a strong emphasis on English language and literature, and practical application of concepts.
+//    - Conducts the Indian Certificate of Secondary Education (ICSE) for Class X and the Indian School Certificate (ISC) for Class XII.
+//
+// 3. State Boards:
+//    - Each state in India has its own education board that conducts examinations for secondary and higher secondary levels.
+//    - Curriculum and examination patterns may vary from state to state.
+//    - Examples: Maharashtra State Board, Tamil Nadu Board of Secondary Education, UP Board, etc.
+//
+// 4. International Boards:
+//    - IB (International Baccalaureate): Offers programs for students aged 3 to 19. Known for its inquiry-based learning approach.
+//    - Cambridge Assessment International Education (CAIE): Offers programs like IGCSE (International General Certificate of Secondary Education) and A-Levels.

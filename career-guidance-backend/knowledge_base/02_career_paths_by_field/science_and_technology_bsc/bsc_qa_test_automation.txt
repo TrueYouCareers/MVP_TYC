@@ -1,0 +1,39 @@
+// Content from Knowledge Base(V).txt - B.Sc Graduates Section
+
+Career Path for B.Sc Graduates: Quality Assurance Engineer (QA Testing) / Test Automation
+
+Why it fits for B.Sc Graduates:
+Science students are often detail-oriented, methodical, and possess good analytical skills. These traits are highly valuable in Quality Assurance (QA) and software testing, where the goal is to identify defects and ensure software quality. They can follow structured testing approaches and, with additional skills, move into test automation.
+
+What you'll work on as a QA Engineer / Test Automation Engineer:
+* Software Testing (Manual & Automated): Designing and executing test plans, test cases, and test scripts to identify software bugs and ensure functionality meets requirements. This includes both manual testing and developing automated tests.
+* Writing Test Cases & Scenarios: Creating detailed test cases based on software requirements and user stories.
+* Reporting Bugs and Tracking Fixes: Clearly documenting identified defects using bug tracking systems (like JIRA) and collaborating with developers to ensure fixes are implemented and verified.
+* API Testing: Testing Application Programming Interfaces (APIs) for functionality, reliability, performance, and security (using tools like Postman).
+* Performance & Security Testing (as experience grows): Conducting tests to evaluate software performance under load or to identify security vulnerabilities.
+
+Skills to Add/Develop:
+* Testing Fundamentals: Understanding of software testing life cycle (STLC), different testing types (functional, non-functional, regression, integration, etc.), and test design techniques.
+* Testing Tools:
+    * Manual Testing: Strong observational and analytical skills.
+    * Automation Testing: Proficiency in a programming language (Python, Java, or JavaScript are common) and automation frameworks/tools like Selenium (for web UI), Appium (for mobile), Cypress, Playwright.
+    * API Testing Tools: Postman, RestAssured.
+* Bug Tracking Tools: Experience with JIRA or similar tools.
+* Basics of APIs and Web Technologies: Understanding how web applications and APIs work.
+* Attention to Detail and methodical approach.
+
+Suggested Path to Become a QA Engineer / Test Automation Engineer:
+1. Learn Testing Fundamentals:
+   * Understand the core concepts of software testing through online courses or certifications (e.g., ISTQB Foundation Level).
+2. Gain Manual Testing Skills:
+   * Practice writing test cases and executing manual tests for sample applications.
+3. Learn Test Automation:
+   * Learn a programming language (Python is a good start for automation).
+   * Get hands-on experience with an automation tool like Selenium.
+4. Build a Portfolio:
+   * Create small automation scripts for web applications and showcase them on GitHub.
+5. Internships & Entry-Level Roles:
+   * Apply for QA Intern, Manual Tester, or Junior QA Automation Engineer roles.
+6. Career Progression:
+   * Move into roles like SDET (Software Development Engineer in Test), Senior Test Automation Engineer, or QA Lead/Manager.
+   * Specialization in performance testing, security testing, or specific automation frameworks can enhance career prospects.

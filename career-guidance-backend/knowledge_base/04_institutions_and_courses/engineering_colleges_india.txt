@@ -1,0 +1,52 @@
+// Please populate this file with information about top engineering colleges in India
+// (e.g., IITs, NITs, BITS, IIITs, other prominent government and private colleges),
+// their common programs, and typical admission criteria (JEE Advanced, JEE Main, BITSAT, etc.).
+// This content was previously in your project's 'knowledge_base/colleges/doc_0.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Top Engineering Colleges in India
+//
+// India has a vast network of engineering colleges, both government-funded and private, known for their quality education and research.
+//
+// 1. Indian Institutes of Technology (IITs):
+//    - Premier institutions for engineering education and research.
+//    - Examples: IIT Bombay, IIT Delhi, IIT Madras, IIT Kanpur, IIT Kharagpur, IIT Roorkee, IIT Guwahati, etc.
+//    - Programs: B.Tech, M.Tech, Dual Degree, Ph.D. in various engineering disciplines.
+//    - Admission: Through JEE Advanced (candidates must qualify JEE Main first).
+//
+// 2. National Institutes of Technology (NITs):
+//    - Institutes of national importance offering high-quality engineering education.
+//    - Examples: NIT Trichy, NIT Warangal, NIT Surathkal, NIT Calicut, MNNIT Allahabad, NIT Rourkela.
+//    - Programs: B.Tech, M.Tech, Ph.D.
+//    - Admission: Through JEE Main.
+//
+// 3. Birla Institute of Technology and Science (BITS):
+//    - A leading private deemed university with campuses in Pilani, Goa, Hyderabad, and Dubai.
+//    - Known for its flexible curriculum and industry collaborations.
+//    - Programs: B.E., M.E., Ph.D.
+//    - Admission: Through BITSAT (BITS Admission Test).
+//
+// 4. Indian Institutes of Information Technology (IIITs):
+//    - Focus on Information Technology and allied areas.
+//    - Two types: Centrally funded (e.g., IIIT Allahabad, IIIT Gwalior) and Public-Private Partnership (PPP) mode (e.g., IIIT Hyderabad, IIIT Bangalore - though these two have unique statuses and are highly ranked).
+//    - Programs: B.Tech, M.Tech, Ph.D. primarily in CS, IT, ECE.
+//    - Admission: Mostly through JEE Main. Some IIITs (like Hyderabad) have their own entrance exams or use other criteria.
+//
+// 5. Other Prominent Government Engineering Colleges:
+//    - Jadavpur University, Kolkata (Faculty of Engineering & Technology)
+//    - Delhi Technological University (DTU), Delhi
+//    - Netaji Subhas University of Technology (NSUT), Delhi
+//    - College of Engineering, Pune (COEP)
+//    - Anna University, Chennai (College of Engineering, Guindy)
+//    - Admission: Typically through state-level entrance exams or JEE Main scores.
+//
+// 6. Top Private Engineering Colleges (Examples):
+//    - Vellore Institute of Technology (VIT), Vellore
+//    - Manipal Institute of Technology (MIT), Manipal
+//    - PSG College of Technology, Coimbatore
+//    - Thapar Institute of Engineering and Technology, Patiala
+//    - RV College of Engineering, Bangalore
+//    - Admission: Usually through their own entrance examinations (e.g., VITEEE, MET) or JEE Main scores.
+//
+// When choosing a college, consider factors like NIRF ranking, faculty, infrastructure, research output, placements, and alumni network.

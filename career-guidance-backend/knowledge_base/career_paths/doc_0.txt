@@ -1,0 +1,21 @@
+
+        Engineering Career Paths in India:
+        
+        1. Computer Science & IT:
+           - Software Engineer → Senior Developer → Tech Lead → Architect → CTO
+           - Software Engineer → Data Scientist → ML Engineer → AI Architect
+           - Entry: B.Tech/B.E. in CS/IT
+           - Skills: Programming, algorithms, system design
+        
+        2. Mechanical Engineering:
+           - Design Engineer → Senior Designer → Project Manager → R&D Head
+           - Manufacturing Engineer → Production Manager → Operations Director
+           - Entry: B.Tech/B.E. in Mechanical Engineering
+           - Skills: CAD/CAM, thermodynamics, materials science
+        
+        3. Electrical/Electronics Engineering:
+           - Circuit Designer → Hardware Engineer → Systems Engineer → Technical Director
+           - Field Engineer → Project Engineer → Project Manager → Operations Head
+           - Entry: B.Tech/B.E. in Electrical/Electronics Engineering
+           - Skills: Circuit design, power systems, embedded systems
+        

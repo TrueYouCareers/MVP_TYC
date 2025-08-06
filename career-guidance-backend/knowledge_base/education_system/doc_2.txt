@@ -1,0 +1,24 @@
+
+        Common higher education degrees in India:
+        
+        Undergraduate:
+        - B.Tech/B.E. (Engineering): 4 years
+        - MBBS (Medicine): 5.5 years
+        - BDS (Dental): 5 years
+        - B.Sc. (Science): 3 years
+        - B.Com. (Commerce): 3 years
+        - B.A. (Arts): 3 years
+        - BBA (Business): 3 years
+        - BCA (Computer Applications): 3 years
+        - LLB (Law): 3 years
+        
+        Postgraduate:
+        - M.Tech/M.E.: 2 years
+        - MD/MS (Medical): 3 years
+        - M.Sc.: 2 years
+        - M.Com.: 2 years
+        - M.A.: 2 years
+        - MBA: 2 years
+        - MCA: 2-3 years
+        - LLM: 1-2 years
+        

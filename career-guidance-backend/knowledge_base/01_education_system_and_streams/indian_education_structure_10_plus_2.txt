@@ -1,0 +1,24 @@
+// Please populate this file with content regarding the Indian 10+2+3/4 education pattern,
+// detailing streams (Science, Commerce, Arts/Humanities) and common subjects.
+// This content was previously in your project's 'knowledge_base/education_system/doc_0.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure (based on typical knowledge for such a file):
+// The Indian education system predominantly follows a 10+2+3/4 pattern.
+// After completing 10th grade (Secondary School), students typically choose a stream for 11th and 12th grades (Higher Secondary / Senior Secondary).
+//
+// 1. Science Stream:
+//    - PCM (Physics, Chemistry, Mathematics): Leads to engineering, architecture, computer science, etc.
+//    - PCB (Physics, Chemistry, Biology): Leads to medical, dental, veterinary, pharmacy, and other life sciences.
+//    - PCMB (Physics, Chemistry, Mathematics, Biology): Keeps options for both engineering and medical fields open.
+//
+// 2. Commerce Stream:
+//    - Core subjects: Accountancy, Business Studies, Economics.
+//    - Often includes Mathematics or Informatics Practices as an optional subject.
+//    - Leads to careers in accounting (CA), company secretary (CS), business management (BBA, MBA), finance, banking, etc.
+//
+// 3. Arts/Humanities Stream:
+//    - Wide range of subjects: History, Political Science, Geography, Economics, Psychology, Sociology, Languages, Fine Arts, etc.
+//    - Leads to careers in law, journalism, civil services, teaching, design, social work, research, etc.
+//
+// After 12th grade, students pursue undergraduate degrees (typically 3 or 4 years), followed by postgraduate education if desired.

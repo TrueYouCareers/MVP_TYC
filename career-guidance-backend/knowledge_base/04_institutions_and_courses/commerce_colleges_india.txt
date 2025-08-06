@@ -1,0 +1,60 @@
+// Please populate this file with information about top commerce colleges in India
+// (e.g., SRCC, LSR, Hindu College, Narsee Monjee, Christ University, Loyola College),
+// their common programs (B.Com, BBA, BMS, Economics Hons), and typical admission criteria (Class 12th marks, CUET, specific entrance tests).
+// This content was previously in your project's 'knowledge_base/colleges/doc_2.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Top Commerce Colleges in India
+//
+// India has many excellent colleges offering undergraduate programs in Commerce, Business Administration, Economics, and related fields.
+//
+// Delhi University (DU) Colleges (Admission primarily through CUET-UG):
+// 1. Shri Ram College of Commerce (SRCC), Delhi:
+//    - Consistently ranked among the top commerce colleges in India.
+//    - Programs: B.Com (Hons), B.A. (Hons) Economics.
+// 2. Lady Shri Ram College For Women (LSR), Delhi:
+//    - Highly reputed college for women.
+//    - Programs: B.Com (Hons), B.A. (Hons) Economics, B.A. (Hons) Statistics, B.El.Ed.
+// 3. Hindu College, Delhi:
+//    - One of the oldest and most prestigious colleges in DU.
+//    - Programs: B.Com (Hons), B.A. (Hons) Economics, and various Arts & Science programs.
+// 4. Hansraj College, Delhi:
+//    - Known for its strong commerce and economics departments.
+//    - Programs: B.Com (Hons), B.A. (Hons) Economics.
+// 5. Ramjas College, Delhi:
+//    - Another well-regarded DU college.
+//    - Programs: B.Com (Hons), B.Com, B.A. (Hons) Economics.
+// 6. Shaheed Sukhdev College of Business Studies (SSCBS), Delhi:
+//    - Focuses on business and management studies.
+//    - Programs: Bachelor of Management Studies (BMS), BBA (Financial Investment Analysis), B.Sc (Hons) Computer Science. Admission often involves an entrance test component.
+//
+// Other Prominent Colleges Across India:
+// 7. Narsee Monjee College of Commerce & Economics (NM College), Mumbai:
+//    - Affiliated with the University of Mumbai, highly sought after.
+//    - Programs: B.Com, BMS, B.Sc (IT), and specialized B.Com programs.
+//    - Admission: Based on Class 12th marks and/or specific criteria by the college/university.
+// 8. Christ University, Bangalore:
+//    - A deemed university known for its commerce and management programs.
+//    - Programs: B.Com (Hons), BBA, BBA (Finance & Accountancy), B.A. (Hons) Economics.
+//    - Admission: Through Christ University Entrance Test (CUET).
+// 9. Loyola College, Chennai:
+//    - An autonomous college affiliated with the University of Madras.
+//    - Programs: B.Com, BBA, B.A. (Hons) Economics.
+//    - Admission: Based on Class 12th marks and college-specific criteria.
+// 10. St. Xavier's College, Mumbai (Autonomous):
+//     - Known for its arts, science, and commerce programs.
+//     - Programs: B.Com, BMS, B.A. (Economics).
+//     - Admission: Entrance test (XET) for some courses.
+// 11. Symbiosis College of Arts and Commerce, Pune:
+//     - Part of Symbiosis International (Deemed University).
+//     - Programs: B.Com, BBA.
+//     - Admission: Through SET (Symbiosis Entrance Test) for BBA.
+// 12. Mount Carmel College, Bangalore (For Women):
+//     - Offers a range of commerce and management programs.
+//     - Programs: B.Com, BBA.
+//
+// Admission Criteria:
+// - For Delhi University colleges, admission to most undergraduate courses is through the Common University Entrance Test (CUET-UG).
+// - Other universities/colleges may have their own entrance tests (like Christ University, Symbiosis) or admit based on Class 12th examination marks.
+// - It's crucial to check the specific admission process for each college and program.

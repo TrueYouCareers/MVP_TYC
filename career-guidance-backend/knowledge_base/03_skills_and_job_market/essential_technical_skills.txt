@@ -1,0 +1,53 @@
+// Please populate this file with a list and description of essential technical skills
+// in demand across various industries in India (e.g., Programming languages like Python, Java, JavaScript;
+// Data Analysis tools; Cloud Computing platforms; Digital Marketing tools; AI/ML basics; Cybersecurity tools).
+// This content was previously in your project's 'knowledge_base/job_market/doc_2.txt (technical part)'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Essential Technical Skills in Demand
+//
+// In today's rapidly evolving job market, certain technical skills are highly sought after across various industries. Acquiring these skills can significantly enhance employability and career growth.
+//
+// 1. Programming and Development:
+//    - Python: Widely used in web development, data science, AI/ML, automation. Known for its readability and extensive libraries.
+//    - Java: Popular for enterprise-level applications, Android app development, and large-scale systems.
+//    - JavaScript: Essential for frontend web development (with frameworks like React, Angular, Vue.js) and backend development (with Node.js).
+//    - C/C++: Used in system programming, game development, and performance-critical applications.
+//    - SQL (Structured Query Language): Crucial for database management and data retrieval.
+//
+// 2. Data Analysis and Visualization:
+//    - Microsoft Excel: Advanced Excel skills for data manipulation, analysis, and visualization are fundamental.
+//    - Python (Pandas, NumPy, Matplotlib, Seaborn): For data cleaning, analysis, and visualization.
+//    - R: A statistical programming language popular for data analysis and research.
+//    - Business Intelligence Tools: Power BI, Tableau, Qlik Sense for creating interactive dashboards and reports.
+//
+// 3. Cloud Computing:
+//    - Platforms: AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform).
+//    - Skills: Understanding cloud architecture, services (compute, storage, databases, networking), deployment, and management. Cloud certifications are valuable.
+//
+// 4. DevOps:
+//    - Tools & Practices: Git, Docker, Kubernetes, Jenkins, CI/CD pipelines, infrastructure as code (Terraform, Ansible).
+//    - Skills: Automating software development and deployment processes.
+//
+// 5. Digital Marketing:
+//    - Tools & Platforms: Google Ads, Google Analytics, Meta Ads Manager, SEO tools (SEMrush, Ahrefs), email marketing platforms, social media management tools.
+//    - Skills: SEO, SEM, content marketing, social media marketing, email marketing, data analytics for marketing.
+//
+// 6. AI and Machine Learning (Basics):
+//    - Concepts: Understanding fundamental ML algorithms, data preprocessing, model training, and evaluation.
+//    - Libraries: Scikit-learn, TensorFlow, PyTorch (Python-based).
+//
+// 7. Cybersecurity:
+//    - Concepts: Network security, application security, data privacy, threat detection, incident response.
+//    - Tools: Familiarity with firewalls, intrusion detection systems, SIEM tools, vulnerability assessment tools. Cybersecurity certifications (e.g., CompTIA Security+, CEH) are beneficial.
+//
+// 8. UI/UX Design:
+//    - Tools: Figma, Adobe XD, Sketch.
+//    - Skills: Wireframing, prototyping, user research, usability testing, understanding design principles.
+//
+// 9. Mobile App Development:
+//    - Platforms: Android (Java/Kotlin), iOS (Swift/Objective-C).
+//    - Cross-platform: React Native, Flutter.
+//
+// Acquiring a combination of these skills, relevant to one's chosen career path, is key to thriving in the modern job market.

@@ -1,0 +1,18 @@
+
+        The Indian education system follows a 10+2+3/4 pattern. After completing 10th grade (Secondary School), students choose streams for 11th and 12th (Higher Secondary):
+        
+        1. Science Stream:
+           - PCM (Physics, Chemistry, Mathematics): For engineering, architecture, computer science
+           - PCB (Physics, Chemistry, Biology): For medical, dental, veterinary sciences
+           - PCMB (Physics, Chemistry, Mathematics, Biology): Keeps both engineering and medical options open
+        
+        2. Commerce Stream:
+           - With Mathematics: For CA, CS, business analytics, economics
+           - Without Mathematics: For marketing, HR, business management
+        
+        3. Arts/Humanities Stream:
+           - History, Political Science, Geography, Economics, Psychology, Sociology
+           - Can lead to careers in law, journalism, civil services, design, etc.
+        
+        After 12th, students pursue undergraduate degrees (3-4 years) followed by post-graduate education.
+        

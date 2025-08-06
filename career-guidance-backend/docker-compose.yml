@@ -1,0 +1,63 @@
+version: "3.8"
+
+services:
+  backend-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: career_guidance_api
+    ports:
+      - "8000:8000" # Exposes port 8000 on the host
+    env_file:
+      - .env # Assumes your .env file is in the same directory (career-guidance-backend)
+    volumes:
+      - ./app:/app/app # Mount the app directory for live reload during development
+      # You might want to mount other directories if they change often during development
+      # - ./knowledge_base:/app/knowledge_base
+    depends_on:
+      - backend-mongo
+      - backend-mysql
+    networks:
+      - backend_network
+    restart: unless-stopped
+
+  backend-mongo:
+    image: mongo:latest
+    container_name: career_guidance_mongo_db
+    ports:
+      - "27018:27017" # Map to a different host port if 27017 is already in use by another mongo instance
+    volumes:
+      - backend_mongo_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: ${MONGODB_DB_NAME:-LLM_db} # From your .env or default
+      # Add MONGO_INITDB_ROOT_USERNAME and MONGO_INITDB_ROOT_PASSWORD if you want authentication
+    networks:
+      - backend_network
+    restart: unless-stopped
+
+  backend-mysql:
+    image: mysql:8.0
+    container_name: career_guidance_mysql_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD:-yoursecurepassword} # Use .env or default
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-llm_schema} # Use .env or default
+    ports:
+      - "3307:3306" # Map to a different host port if 3306 is already in use
+    volumes:
+      - backend_mysql_data:/var/lib/mysql
+      # Optional: Mount init scripts for MySQL
+      # - ./mysql-init-scripts:/docker-entrypoint-initdb.d
+    networks:
+      - backend_network
+    restart: unless-stopped
+
+volumes:
+  backend_mongo_data:
+    driver: local
+  backend_mysql_data:
+    driver: local
+
+networks:
+  backend_network:
+    driver: bridge

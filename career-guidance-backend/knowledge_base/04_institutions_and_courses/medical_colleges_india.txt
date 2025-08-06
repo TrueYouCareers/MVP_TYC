@@ -1,0 +1,63 @@
+// Please populate this file with information about top medical colleges in India
+// (e.g., AIIMS, JIPMER, CMC Vellore, MAMC, AFMC, other prominent government and private colleges),
+// their common programs (MBBS, BDS, MD/MS), and typical admission criteria (NEET-UG, NEET-PG).
+// This content was previously in your project's 'knowledge_base/colleges/doc_1.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Top Medical Colleges in India
+//
+// India is home to numerous prestigious medical colleges known for their rigorous training, research contributions, and patient care.
+//
+// 1. All India Institutes of Medical Sciences (AIIMS):
+//    - A group of autonomous government public medical colleges of higher education.
+//    - AIIMS Delhi is consistently ranked as the top medical college in India. Other AIIMS campuses include Jodhpur, Bhubaneswar, Rishikesh, Patna, Raipur, Bhopal.
+//    - Programs: MBBS, MD/MS, DM/M.Ch, Ph.D., B.Sc (Hons) Nursing, Paramedical courses.
+//    - Admission (MBBS): Through NEET-UG. For PG courses, INI-CET.
+//
+// 2. Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry:
+//    - An Institute of National Importance.
+//    - Programs: MBBS, MD/MS, Super Specialty, Ph.D., B.Sc Allied Health Sciences.
+//    - Admission (MBBS): Through NEET-UG. For PG courses, INI-CET.
+//
+// 3. Christian Medical College (CMC), Vellore:
+//    - A renowned private, minority-run medical school, hospital, and research institute.
+//    - Known for its service to underserved communities and high-quality medical education.
+//    - Programs: MBBS, MD/MS, Diploma courses, Allied Health Sciences, Nursing.
+//    - Admission (MBBS): Through NEET-UG, followed by CMC's own aptitude assessment and interview (subject to prevailing regulations).
+//
+// 4. Maulana Azad Medical College (MAMC), New Delhi:
+//    - A leading government medical college affiliated with the University of Delhi.
+//    - Programs: MBBS, MD/MS, Super Specialty courses.
+//    - Admission (MBBS): Through NEET-UG.
+//
+// 5. Armed Forces Medical College (AFMC), Pune:
+//    - A premier medical institute of the Indian Armed Forces.
+//    - Trains medical undergraduates and postgraduates with a commitment to serve in the Armed Forces.
+//    - Programs: MBBS, MD/MS, Nursing.
+//    - Admission (MBBS): Through NEET-UG, followed by AFMC's own screening process including an English test, psychological assessment, and interview.
+//
+// 6. King George's Medical University (KGMU), Lucknow:
+//    - A prominent state government medical university.
+//    - Programs: MBBS, BDS, MD/MS, MDS, Super Specialty courses.
+//    - Admission (MBBS): Through NEET-UG.
+//
+// 7. Lady Hardinge Medical College (LHMC), New Delhi (For Women):
+//    - A well-known medical college for women, affiliated with the University of Delhi.
+//    - Programs: MBBS, MD/MS.
+//    - Admission (MBBS): Through NEET-UG.
+//
+// 8. Grant Medical College and Sir J.J. Group of Hospitals, Mumbai:
+//    - One of the oldest medical colleges in Asia, run by the Government of Maharashtra.
+//    - Admission (MBBS): Through NEET-UG.
+//
+// 9. Madras Medical College (MMC), Chennai:
+//    - One of the oldest medical colleges in India, run by the Government of Tamil Nadu.
+//    - Admission (MBBS): Through NEET-UG.
+//
+// Other Notable Institutions:
+// - Banaras Hindu University (BHU) - Institute of Medical Sciences, Varanasi
+// - Kasturba Medical College (KMC), Manipal & Mangalore (Private)
+// - St. John's Medical College, Bangalore (Private)
+//
+// Admission to MBBS and BDS courses across India is primarily through the National Eligibility cum Entrance Test (NEET-UG). For postgraduate (MD/MS/Diploma) courses, NEET-PG is the main entrance exam, while INI-CET is for AIIMS, JIPMER, PGIMER Chandigarh, and NIMHANS Bangalore.

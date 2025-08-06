@@ -1,0 +1,94 @@
+What We Are Suggesting (With Sample MCQ-Style Questions)
+
+For a 10th Class Student (Stream Suggestion + Natural Inclination)
+Problem:
+Students often pick streams under parental or peer pressure, without knowing what fits them best.
+What We Do:
+We ask 5-7 interest-mapping MCQs like:
+Sample Questions:
+1. What activity excites you the most?
+o A. Conducting science experiments
+o B. Debating or public speaking
+o C. Planning and budgeting money
+o D. Writing stories or articles
+2. Which of these best describes you?
+o A. Analytical & Curious
+o B. Expressive & Logical
+o C. Structured & Practical
+o D. Empathetic & Creative
+3. If given a project, what role do you enjoy most?
+o A. Researcher
+o B. Leader/Speaker
+o C. Organizer
+o D. Designer/Creator
+How We Use This:
+We analyze the answers to suggest Science, Commerce, or Humanities, with reasoning and matching future careers.
+Output:
+A personalized Stream Suggestion Report based on interest + inclination, not marks alone.
+
+For a 12th Class Student (Career Clarity Based on Interests + Future Scope)
+Problem:
+They're unsure which career path to take after 12th - traditional vs trending roles.
+What We Do:
+We give career guidance via smart MCQs and logic filters like:
+Sample Questions:
+1. What kind of work appeals to you most?
+o A. Solving business problems
+o B. Managing social media or content
+o C. Working with numbers/data
+o D. Teaching or helping others
+2. What is your ideal working style?
+o A. Team leader
+o B. Independent contributor
+o C. Researcher
+o D. Communicator
+3. Are you open to learning digital tools like Excel, Canva, or Google Sheets?
+o A. Yes
+o B. Maybe, if they're simple
+o C. Not sure
+o D. No
+How We Use This:
+Based on answers, suggest career tracks like Marketing, Business Analysis, HR, EdTech, etc., and skills/courses to match.
+Output:
+An AI-generated career report with roles + skills + growth options.
+
+For Graduates (Especially Non-Tech, Low Awareness About IT Careers)
+Problem:
+B.A., B.Com, B.Sc students often feel they can't enter IT without coding knowledge - or waste years in govt exam prep with no backup.
+What We Do:
+We guide them toward non-coding or minimal coding IT roles using interest-based MCQs like:
+Sample Questions:
+1. Which task would you feel confident learning?
+o A. Designing presentations/social media posts
+o B. Managing people and projects
+o C. Analyzing business trends in Excel
+o D. Writing blog posts or articles
+2. Would you prefer:
+o A. A creative job (like design or writing)
+o B. An analytical job (like reports & analysis)
+o C. A people-centered job (like HR or Sales)
+o D. A mix of all
+3. Are you currently preparing for any competitive exams?
+o A. Yes
+o B. No
+o C. Was preparing earlier
+o D. Thinking about it
+How We Use This:
+Based on their comfort level and interests, we suggest roles like:
+* UI/UX Designer
+* Digital Marketer
+* HR/Recruiter in Tech
+* Business Analyst
+* Customer Success Manager
+* EdTech Sales Executive
+We then recommend 2-3 targeted skills + free/affordable courses to get started.
+Output:
+They walk away with hope + a roadmap to switch to IT confidently.
+
+Why This is Powerful
+* Blends psychology + data + career trends
+* Gives non-tech students a realistic, achievable roadmap to IT
+* Makes career clarity accessible, scalable & smart
+* Strong potential for affiliate monetization via course links
+* Empowers millions who feel stuck in the wrong career loop
+

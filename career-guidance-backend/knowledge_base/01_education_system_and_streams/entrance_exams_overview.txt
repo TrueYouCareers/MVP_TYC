@@ -1,0 +1,42 @@
+// Please populate this file with content regarding key entrance exams in India after 10th and 12th
+// (e.g., JEE Main & Advanced, NEET, CLAT, NID, NIFT, UCEED, NDA, CUET, various state-level tests).
+// This content was previously in your project's 'knowledge_base/education_system/doc_1.txt (exams part)'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Overview of Key Entrance Exams in India:
+//
+// After 12th Grade:
+//
+// For Engineering:
+// - JEE (Joint Entrance Examination) Main: For admission to NITs, IIITs, and other Centrally Funded Technical Institutions (CFTIs). Also a qualifying exam for JEE Advanced.
+// - JEE Advanced: For admission to the Indian Institutes of Technology (IITs).
+// - State-Level Engineering Entrance Exams: e.g., MHT-CET (Maharashtra), KCET (Karnataka), WBJEE (West Bengal).
+// - BITSAT (Birla Institute of Technology and Science Admission Test): For admission to BITS Pilani campuses.
+//
+// For Medical (MBBS/BDS):
+// - NEET (National Eligibility cum Entrance Test) UG: Single entrance test for admission to MBBS and BDS courses in medical and dental colleges across India. Also for AYUSH courses.
+//
+// For Law:
+// - CLAT (Common Law Admission Test): For admission to undergraduate and postgraduate law programs in National Law Universities (NLUs).
+// - AILET (All India Law Entrance Test): For admission to National Law University, Delhi.
+// - LSAT India (Law School Admission Test India): For admission to various private law colleges.
+//
+// For Design:
+// - NID DAT (National Institute of Design Design Aptitude Test): For admission to NID campuses.
+// - UCEED (Undergraduate Common Entrance Examination for Design): For admission to B.Des programs at IITs and IIITDM Jabalpur.
+// - NIFT Entrance Exam: For admission to National Institutes of Fashion Technology.
+//
+// For Architecture:
+// - NATA (National Aptitude Test in Architecture): For admission to B.Arch programs.
+// - JEE Main (Paper 2 for B.Arch/B.Planning).
+//
+// For General Undergraduate Courses (Arts, Commerce, Science in Central Universities):
+// - CUET (Common University Entrance Test): For admission to various undergraduate programs in Central Universities and other participating institutions.
+//
+// For Defense:
+// - NDA & NA Exam (National Defence Academy & Naval Academy Examination): For admission to the Army, Navy, and Air Force wings of the NDA, and for the Indian Naval Academy Course (INAC).
+//
+// After 10th Grade (for Diplomas or specific schools):
+// - Polytechnic Entrance Exams: State-level exams for admission to diploma engineering courses.
+// - Specific school entrance exams for 11th grade admissions in some prestigious institutions.

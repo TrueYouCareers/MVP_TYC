@@ -1,0 +1,48 @@
+// Content from Knowledge Base(V).txt - "Bonus: Skill Tracks"
+
+Skill Development Track: Business Analytics
+
+Domain: Business Analytics
+
+Core Skills to Develop:
+1.  Data Analysis with Excel:
+    *   Advanced functions (VLOOKUP, HLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS).
+    *   PivotTables and PivotCharts for data summarization and visualization.
+    *   Data cleaning and preparation techniques.
+    *   Basic statistical analysis and forecasting.
+2.  SQL (Structured Query Language):
+    *   Writing queries to retrieve, filter, and sort data from relational databases.
+    *   Joining tables.
+    *   Aggregate functions.
+    *   Subqueries (basic).
+3.  Business Intelligence (BI) Tools:
+    *   Proficiency in at least one major BI tool:
+        *   Power BI: Creating interactive dashboards, data modeling, DAX basics.
+        *   Tableau: Data visualization, creating dashboards, storytelling with data.
+4.  Data Visualization:
+    *   Principles of effective data visualization.
+    *   Choosing appropriate chart types.
+    *   Creating clear and impactful visuals that communicate insights.
+5.  Statistical Concepts (Basic to Intermediate):
+    *   Descriptive statistics (mean, median, mode, standard deviation).
+    *   Inferential statistics basics (hypothesis testing, regression analysis - conceptual understanding).
+6.  Problem-Solving & Critical Thinking:
+    *   Ability to understand business problems and translate them into analytical questions.
+    *   Interpreting analytical results to provide actionable recommendations.
+7.  Communication & Presentation Skills:
+    *   Clearly explaining data insights to non-technical stakeholders.
+    *   Creating effective reports and presentations.
+
+Recommended Learning Resources & Courses (Examples - can be affiliate links in a live system):
+*   Microsoft Excel: Online courses on platforms like Udemy, Coursera, ExcelIsFun (YouTube).
+*   SQL: Khan Academy, Codecademy, W3Schools, Mode Analytics SQL Tutorial.
+*   Power BI: Microsoft Learn (Power BI learning paths), courses on Udemy/Coursera by specialists like Maven Analytics.
+*   Tableau: Tableau's official free training videos, courses on Udemy/Coursera.
+*   General Business Analytics/Data Analysis Bootcamps or Specializations on Coursera, edX, Udacity, or from institutes like Great Learning, UpGrad.
+
+Suggested Learning Path:
+1.  Start with mastering Excel for data analysis.
+2.  Learn SQL fundamentals for data extraction.
+3.  Choose one BI tool (Power BI or Tableau) and learn it thoroughly by working on projects.
+4.  Supplement with basic statistical knowledge.
+5.  Practice with real-world or sample datasets to build a portfolio.

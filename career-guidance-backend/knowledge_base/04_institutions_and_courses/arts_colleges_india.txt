@@ -1,0 +1,62 @@
+// Please populate this file with information about top arts and humanities colleges in India
+// (e.g., LSR, Hindu, Miranda House, St. Stephen's, Jadavpur University, Presidency University, JNU),
+// their common programs (B.A. Hons in various subjects like English, History, Political Science, Sociology, Psychology),
+// and typical admission criteria (Class 12th marks, CUET, specific entrance tests).
+// This content was previously in your project's 'knowledge_base/colleges/doc_3.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Top Arts and Humanities Colleges in India
+//
+// India offers a rich landscape of colleges renowned for their excellence in Arts and Humanities education, fostering critical thinking, creativity, and deep understanding of societal and cultural dynamics.
+//
+// Delhi University (DU) Colleges (Admission primarily through CUET-UG):
+// 1. Lady Shri Ram College For Women (LSR), Delhi:
+//    - Consistently a top choice for Arts and Humanities.
+//    - Programs: B.A. (Hons) in English, History, Political Science, Economics, Sociology, Psychology, Philosophy, Journalism, etc.
+// 2. Hindu College, Delhi:
+//    - Esteemed for its strong Arts, Humanities, and Social Science departments.
+//    - Programs: B.A. (Hons) in English, Hindi, History, Political Science, Sociology, Economics, Philosophy, Sanskrit.
+// 3. Miranda House, Delhi (For Women):
+//    - A premier institution for women's education with excellent Arts programs.
+//    - Programs: B.A. (Hons) in English, Hindi, History, Political Science, Sociology, Economics, Philosophy, Geography.
+// 4. St. Stephen's College, Delhi:
+//    - Known for its academic rigor and distinguished alumni.
+//    - Programs: B.A. (Hons) in English, History, Economics, Philosophy. (Admission process may have additional components).
+// 5. Hansraj College, Delhi:
+//    - Offers a wide range of well-regarded Arts and Humanities programs.
+//    - Programs: B.A. (Hons) in English, Hindi, History, Economics, Philosophy, Sanskrit.
+// 6. Ramjas College, Delhi:
+//    - Another prominent DU college with strong Arts and Humanities offerings.
+//
+// Other Prominent Colleges Across India:
+// 7. Jadavpur University, Kolkata (Faculty of Arts):
+//    - Highly acclaimed for its Arts and Humanities programs, known for its liberal environment and academic excellence.
+//    - Programs: B.A. (Hons) in English, Comparative Literature, History, Political Science, Sociology, Philosophy, Economics, International Relations.
+//    - Admission: Through its own entrance examinations.
+// 8. Presidency University, Kolkata:
+//    - A historic institution with a strong legacy in Arts and Humanities.
+//    - Programs: B.A. (Hons) in English, History, Political Science, Sociology, Philosophy, Bengali, Hindi.
+//    - Admission: Through Presidency University Bachelor Degree Entrance Test (PUBDET).
+// 9. Jawaharlal Nehru University (JNU), New Delhi (School of Social Sciences, School of Language, Literature and Culture Studies):
+//    - Primarily a postgraduate and research university, but offers some integrated B.A.-M.A. programs in Foreign Languages. Renowned for social sciences and humanities research.
+//    - Admission: Through JNU Entrance Examination (JNUEE), now CUET for some UG programs.
+// 10. Christ University, Bangalore:
+//     - Offers a variety of B.A. (Hons) programs in subjects like English, Journalism, Psychology, Economics, Political Science, Sociology.
+//     - Admission: Through Christ University Entrance Test (CUET).
+// 11. St. Xavier's College, Mumbai (Autonomous):
+//     - Well-regarded for its B.A. programs in various disciplines including English, History, Political Science, Sociology, Economics, Psychology.
+//     - Admission: Entrance test (XET) for some courses.
+// 12. Fergusson College, Pune:
+//     - An autonomous college with a long history and strong Arts departments.
+//     - Programs: B.A. in various subjects.
+//
+// National Law Schools (for integrated Law with Arts/Social Science components):
+// - NLSIU Bangalore, NALSAR Hyderabad, NLU Delhi, WBNUJS Kolkata, etc.
+// - Offer 5-year integrated programs like B.A. LL.B. (Hons).
+// - Admission: Through CLAT (Common Law Admission Test).
+//
+// Admission Criteria:
+// - For Delhi University colleges and many central universities, admission is through CUET-UG.
+// - Other universities/colleges (like Jadavpur, Presidency, Christ University, St. Xavier's) have their own entrance examinations.
+// - Some may also consider Class 12th marks. Always check specific college requirements.

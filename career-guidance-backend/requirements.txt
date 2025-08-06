@@ -1,0 +1,53 @@
+# Core FastAPI
+fastapi==0.115.13
+uvicorn==0.34.3
+pydantic==2.11.7
+pydantic_settings==2.9.1
+
+# Environment
+python-dotenv==1.1.0
+
+# LLM and AI
+langchain==0.3.25
+langchain_community==0.3.25
+langchain_core==0.3.65
+langchain_groq==0.3.2
+langchain_huggingface==0.3.0
+langchain_text_splitters==0.3.8
+tiktoken==0.9.0
+
+# Machine Learning and Emb
+faiss-cpu==1.11.0
+huggingface-hub==0.33.0
+transformers
+numpy==2.3.1
+
+# Database
+SQLAlchemy==2.0.41
+alembic==1.13.1
+pymongo==4.13.2
+pymysql==1.1.1
+mysql-connector-python==9.3.0
+
+# Authentication and Security
+python_jose==3.5.0
+passlib==1.7.4
+bcrypt==4.1.2
+cryptography==45.0.4
+
+# PDF Generation and Reports
+reportlab==4.4.1
+jinja2==3.1.2
+
+# Web Automation (for PDF generation via HTML)
+playwright==1.52.0
+
+# HTTP and API
+httpx==0.28.1
+requests==2.31.0
+
+# Email validation (used in auth.py)
+email-validator==2.1.0
+
+# Async support
+asyncio-mqtt==0.16.1

@@ -1,0 +1,37 @@
+# [tool]
+# name = "career-guidance-backend"
+# version = "0.1.0"
+# description = "A FastAPI backend for career guidance using Langchain agents."
+# authors = ["Your Name <your.email@example.com>"]
+# license = "MIT"
+
+# [build-system]
+# requires = ["poetry-core>=1.0.0"]
+# build-backend = "poetry.core.masonry.api"
+
+# [tool.poetry.dependencies]
+# python = "^3.9"
+# fastapi = "^0.75.0"
+# uvicorn = "^0.17.0"
+# sqlalchemy = "^1.4.27"
+# pydantic = "^1.8.2"
+# langchain = "^0.0.1"      # Adjust version as necessary
+# alembic = "^1.7.5"
+# python-dotenv = "^0.19.2"
+
+# [tool.poetry.dev-dependencies]
+# pytest = "^6.2.5"
+# httpx = "^0.19.0"
+# pytest-asyncio = "^0.15.1"
+# mypy = "^0.910"
+# black = "^21.7b0"
+# isort = "^5.9.3"
+
+# [tool.poetry.scripts]
+# start = "uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload"
+
+# [tool.poetry.urls]
+# repository = "https://your-repo-url.com" # Optional: specify your repository URL
+
+# [tool.poetry.plugins."console_scripts"]
+# your_command = "app.main:main" # Replace with your actual command if needed

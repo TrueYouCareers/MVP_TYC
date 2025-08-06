@@ -1,0 +1,36 @@
+// Please populate this file with a general overview of engineering career paths in India,
+// common branches (Computer Science, Mechanical, Electrical, Civil, etc.),
+// typical entry routes (B.Tech/B.E.), and general skills required.
+// This content was previously in your project's 'knowledge_base/career_paths/doc_0.txt'
+// or part of SAMPLE_KNOWLEDGE.
+
+// Example structure:
+// Engineering Career Paths in India: Overview
+//
+// Engineering is a vast field offering diverse career opportunities. It involves applying scientific and mathematical principles to design, develop, and maintain structures, machines, devices, systems, materials, and processes.
+//
+// Common Branches:
+// 1. Computer Science & IT: Software development, data science, AI/ML, cybersecurity, etc.
+// 2. Mechanical Engineering: Design, manufacturing, thermal sciences, robotics, automotive, etc.
+// 3. Electrical Engineering: Power systems, electronics, control systems, telecommunications, etc.
+// 4. Electronics & Communication Engineering: Embedded systems, VLSI, telecommunications, IoT, etc.
+// 5. Civil Engineering: Structural design, construction, transportation, environmental engineering, etc.
+// 6. Chemical Engineering: Process design, plant operations, petrochemicals, pharmaceuticals, etc.
+// 7. Aerospace Engineering: Aircraft and spacecraft design, aerodynamics, propulsion, etc.
+// 8. Biomedical Engineering: Medical device development, biomechanics, clinical engineering, etc.
+//
+// Entry Route:
+// - Typically a Bachelor of Technology (B.Tech) or Bachelor of Engineering (B.E.) degree in a specific engineering discipline.
+// - Admission is usually through competitive entrance examinations like JEE Main, JEE Advanced, BITSAT, and state-level exams.
+//
+// General Skills Required:
+// - Strong analytical and problem-solving skills.
+// - Proficiency in mathematics and science.
+// - Creativity and innovation.
+// - Attention to detail.
+// - Teamwork and communication skills.
+// - Adaptability and willingness to learn new technologies.
+//
+// Career Progression:
+// Entry-level engineer -> Senior Engineer -> Technical Lead -> Project Manager -> Engineering Manager -> Higher management roles (e.g., CTO, Head of Engineering).
+// Options also include research (M.Tech, PhD), entrepreneurship, or shifting to techno-managerial roles.

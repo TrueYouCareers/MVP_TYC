@@ -1,0 +1,37 @@
+// Sample questions for 10th Grade Students from KnowledgeBase(II).txt and KnowledgeBase(III).txt
+
+Sample MCQ-Style Questions for 10th Class Students (Stream Suggestion + Natural Inclination)
+
+Purpose: To help students identify their core interests and inclinations, guiding them towards suitable academic streams (Science, Commerce, Humanities/Arts).
+
+Sample Questions:
+
+1.  What activity excites you the most?
+    o A. Conducting science experiments
+    o B. Debating or public speaking
+    o C. Planning and budgeting money
+    o D. Writing stories or articles
+
+2.  Which of these best describes you?
+    o A. Analytical & Curious (often associated with scientific inquiry)
+    o B. Expressive & Logical (can be a mix, leaning towards humanities or even analytical commerce)
+    o C. Structured & Practical (often associated with commerce or applied sciences)
+    o D. Empathetic & Creative (often associated with humanities, arts, social sciences)
+
+3.  If given a project, what role do you enjoy most?
+    o A. Researcher (leaning towards Science, or research-oriented Humanities)
+    o B. Leader/Speaker (leaning towards Humanities, Management aspects of Commerce)
+    o C. Organizer (leaning towards Commerce, Management)
+    o D. Designer/Creator (leaning towards Arts, Design fields within Humanities or even tech-creative roles)
+
+(Additional question styles from KnowledgeBase(IV).txt for probing interests)
+*   "Do you enjoy solving puzzles?" (Analytical, Logical)
+*   "Do you find yourself explaining things to friends?" (Communication, Teaching inclination)
+*   "Do you like experimenting, researching, or speaking?" (Covers Science, Research, Communication)
+
+How these questions are used:
+The pattern of answers helps map the student's natural tendencies. For example:
+*   Consistent 'A' choices might suggest a strong inclination towards the Science stream.
+*   'B' and 'D' choices might point towards Humanities or Arts.
+*   'C' choices could indicate an aptitude for Commerce.
+The analysis aims to provide a reasoned suggestion for a stream that aligns with their interests, along with potential future career paths related to that stream.

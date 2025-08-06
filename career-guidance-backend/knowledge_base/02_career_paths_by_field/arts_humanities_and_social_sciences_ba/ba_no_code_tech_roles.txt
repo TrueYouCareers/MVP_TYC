@@ -1,0 +1,37 @@
+// Content from Knowledge Base(V).txt - B.A. Graduates Section (No-Code Tech Roles)
+
+Career Path for B.A. Graduates: No-Code Tech Roles (Operations / Support / Testing)
+
+Why it fits for B.A. Graduates:
+B.A. graduates can thrive in technology companies without needing to write code. Their communication, problem-solving, and organizational skills are valuable in roles that involve managing operations, supporting users, or testing products. The rise of no-code/low-code platforms also opens up opportunities for them to contribute to tech solutions.
+
+What you'll work on in No-Code Tech Roles:
+* Client/User Onboarding & Support: Assisting new users in getting started with a software product or service, providing ongoing support, and troubleshooting issues via chat, email, or phone.
+* Product Operations: Managing day-to-day operations related to a tech product, coordinating with different teams, and ensuring smooth functioning.
+* Software Testing (Manual QA): Manually testing software applications to identify bugs, ensure functionality meets requirements, and improve user experience.
+* CRM & Customer Success Platform Management: Using tools like HubSpot, Freshdesk, Zoho CRM to manage customer interactions, track issues, and support customer success initiatives.
+* Documentation & Knowledge Base Creation: Creating user guides, FAQs, and internal documentation.
+* No-Code/Low-Code Development (Potentially): Using platforms like Notion, Airtable, Zapier, or Webflow to build internal tools, automate workflows, or create simple websites/apps.
+
+Skills to Add/Develop:
+* Tech Tools:
+    * No-Code/Low-Code Platforms: Notion, Airtable, Zapier, Bubble, Webflow (depending on the role).
+    * CRM/Customer Support Tools: HubSpot, Salesforce (basics), Freshdesk, Zoho Desk, Intercom.
+    * Testing Tools (Basic): Familiarity with bug tracking (JIRA) and basic API testing tools (Postman) can be a plus for QA roles.
+* Communication Skills: Excellent verbal and written communication for user interaction and team collaboration.
+* Problem-Solving & Analytical Skills: To understand user issues and find solutions.
+* Empathy & Patience: Especially for customer-facing support roles.
+* Attention to Detail: Crucial for testing and operations.
+
+Suggested Path to No-Code Tech Roles:
+1. Learn Relevant Tools:
+   * Explore and learn popular no-code platforms and customer support/CRM tools through online tutorials and free tiers.
+2. Practical Experience:
+   * Seek internships in tech operations, customer support, QA (manual testing), or as a community manager in tech startups.
+   * Volunteer to help organizations with tasks that can be managed using no-code tools.
+3. Build Small Projects (if interested in no-code development):
+   * Create a simple database in Airtable, automate a workflow with Zapier, or build a basic website with a no-code builder.
+4. Entry-Level Roles:
+   * Apply for positions like Customer Support Executive, Technical Support Representative, QA Tester (Manual), Operations Associate, Community Support Specialist, or No-Code Specialist.
+5. Specialization & Growth:
+   * Can specialize in areas like Customer Success Management, QA Automation (by learning some coding later), Product Operations, or become a No-Code/Low-Code Developer/Consultant.
